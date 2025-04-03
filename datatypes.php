@@ -24,13 +24,13 @@ $cars=array("volvo","tata","toyota");
 var_dump($cars);
 echo"<br>";
 
-$v="hello world!";
+$v="hello world!!";
 $v=null;
 var_dump($v);
 echo"<br>";
 
-$q=10;
+$q=12;
 var_dump($q);
-$q="hello";
+$q="hello!";
 var_dump($q);
 ?>
